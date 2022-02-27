@@ -73,3 +73,9 @@
 [submodule "awesome-ml-2"]
 	path = awesome-ml-2
 	url = https://github.com/Engineering-Course/Awesome-Medical-Research
+[submodule "awesome-visualizations"]
+	path = awesome-visualizations
+	url = https://github.com/cmdcolin/awesome-genome-visualization
+[submodule "awesome-synbio-2"]
+	path = awesome-synbio-2
+	url = https://github.com/cosmic-cortex/awesome-synbio
