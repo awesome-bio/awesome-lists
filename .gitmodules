@@ -7,3 +7,69 @@
 [submodule "awesome-proteomics"]
 	path = awesome-proteomics
 	url = https://github.com/anuragraj/awesome-proteomics
+[submodule "awesome-multiomics"]
+	path = awesome-multiomics
+	url = https://github.com/mikelove/awesome-multi-omics
+[submodule "awesome-datasets"]
+	path = awesome-datasets
+	url = https://github.com/OpenGene/awesome-bio-datasets
+[submodule "awesome-genomics"]
+	path = awesome-genomics
+	url = https://github.com/broadinstitute/AwesomeGenomics
+[submodule "awesome-bioinformatics-2"]
+	path = awesome-bioinformatics-2
+	url = https://github.com/openbiox/awosome-bioinformatics
+[submodule "awesome-bioinformatics-3"]
+	path = awesome-bioinformatics-3
+	url = https://github.com/Ramb0a/awesome-structural-bioinformatics
+[submodule "awesome-bio"]
+	path = awesome-bio
+	url = https://github.com/raivivek/awesome-biology
+[submodule "awesome-singlecell"]
+	path = awesome-singlecell
+	url = https://github.com/seandavi/awesome-single-cell
+[submodule "awesome-datasets-2"]
+	path = awesome-datasets-2
+	url = https://github.com/seandavi/awesome-cancer-variant-databases
+[submodule "awesome-ml"]
+	path = awesome-ml
+	url = https://github.com/gokceneraslan/awesome-deepbio
+[submodule "awesome-workflows"]
+	path = awesome-workflows
+	url = https://github.com/nextflow-io/awesome-nextflow
+[submodule "awesome-synbio"]
+	path = awesome-synbio
+	url = https://github.com/websemantics/awesome-synthetic-biology
+[submodule "awesome-oddsandends-2"]
+	path = awesome-oddsandends-2
+	url = https://github.com/federicomarini/awesome-expression-browser
+[submodule "awesome-spatialomics"]
+	path = awesome-spatialomics
+	url = https://github.com/drighelli/awesome-spatial-omics
+[submodule "awesome-metabolomics"]
+	path = awesome-metabolomics
+	url = https://github.com/lzyacht/awesome-metabolomics
+[submodule "awesome-cardio"]
+	path = awesome-cardio
+	url = https://github.com/cbailes/awesome-ai-cardiology
+[submodule "awesome-oddsandends-3"]
+	path = awesome-oddsandends-3
+	url = https://github.com/leandromineti/awesome-healthmetrics
+[submodule "awesome-microbes"]
+	path = awesome-microbes
+	url = https://github.com/stevetsa/awesome-microbes
+[submodule "awesome-oddsandends-4"]
+	path = awesome-oddsandends-4
+	url = https://github.com/kakoni/awesome-healthcare
+[submodule "awesome-imaging"]
+	path = awesome-imaging
+	url = https://github.com/fepegar/awesome-medical-imaging
+[submodule "awesome-oddsandends-5"]
+	path = awesome-oddsandends-5
+	url = https://github.com/medtorch/awesome-healthcare-ai
+[submodule "awesome-oddsandends-6"]
+	path = awesome-oddsandends-6
+	url = https://github.com/jeromecc/awesome-health
+[submodule "awesome-ml-2"]
+	path = awesome-ml-2
+	url = https://github.com/Engineering-Course/Awesome-Medical-Research
