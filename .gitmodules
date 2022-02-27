@@ -88,3 +88,9 @@
 [submodule "awesome-ml-3"]
 	path = awesome-ml-3
 	url = https://github.com/benb111/awesome-small-molecule-ml
+[submodule "awesome-genomics-2"]
+	path = awesome-genomics-2
+	url = https://github.com/plashchynski/awesome-genetics
+[submodule "awesome-workflows-2"]
+	path = awesome-workflows-2
+	url = https://github.com/mtuong/awesome-nextflow
