@@ -79,3 +79,12 @@
 [submodule "awesome-synbio-2"]
 	path = awesome-synbio-2
 	url = https://github.com/cosmic-cortex/awesome-synbio
+[submodule "awesome-oddsandends-7"]
+	path = awesome-oddsandends-7
+	url = https://github.com/Bin-Chen-Lab/Awesome_BigData_AI_DrugDiscovery
+[submodule "awesome-multiomics-2"]
+	path = awesome-multiomics-2
+	url = https://github.com/flowhub-team/awesome-omics
+[submodule "awesome-ml-3"]
+	path = awesome-ml-3
+	url = https://github.com/benb111/awesome-small-molecule-ml
