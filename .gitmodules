@@ -4,3 +4,6 @@
 [submodule "awesome-bioinformatics"]
 	path = awesome-bioinformatics
 	url = https://github.com/danielecook/Awesome-Bioinformatics
+[submodule "awesome-proteomics"]
+	path = awesome-proteomics
+	url = https://github.com/anuragraj/awesome-proteomics
