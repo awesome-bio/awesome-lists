@@ -1,3 +1,6 @@
 [submodule "awesome-lists/awesome-bioinformatics"]
 	path = awesome-lists/awesome-bioinformatics
 	url = https://github.com/danielecook/Awesome-Bioinformatics
+[submodule "awesome-bioinformatics"]
+	path = awesome-bioinformatics
+	url = https://github.com/danielecook/Awesome-Bioinformatics
